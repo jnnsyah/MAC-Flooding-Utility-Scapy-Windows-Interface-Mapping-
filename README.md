@@ -41,6 +41,8 @@ Langkah-langkah:
 4. Masukkan ukuran payload awal, akhir, dan langkah (step)
 5. Tool akan mengirim frame-frame secara bertahap ke target MAC
 
+📡 Contoh Output
+```
 🔍 Available Network Interfaces:
  0: Wi-Fi (Intel(R) Wireless-AC 9560 160MHz)
  1: Ethernet (Realtek PCIe GbE Family Controller)
@@ -61,4 +63,4 @@ Step size (e.g. 10): 10
 [+] Sent payload size: 20 bytes
 ...
 [*] Finished sending packets.
-
+```
